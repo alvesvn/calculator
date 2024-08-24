@@ -30,7 +30,7 @@ ReadLine: ler uma linha
             case 3: Divisao(); break;
             case 4: Multiplicacao(); break; 
             case 5: Exit(); break;
-            default: Menu(); break; 
+            default: Error(); break; 
         }
     
     }
@@ -141,5 +141,13 @@ ReadLine: ler uma linha
         Console.WriteLine("Obrigado pela preferência.");
     }
 
+    static void Error(){
+        Console.Clear();
+
+        Console.WriteLine("Comando inválido, selecione uma opção válida.");
+        Console.ReadKey(); 
+        Menu();
+    }
+   
     Menu();
 

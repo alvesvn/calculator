@@ -12,3 +12,4 @@ C:\Users\Vinicius Alves\OneDrive\Área de Trabalho\calculator\obj\Debug\net8.0\r
 C:\Users\Vinicius Alves\OneDrive\Área de Trabalho\calculator\obj\Debug\net8.0\calculator.pdb
 C:\Users\Vinicius Alves\OneDrive\Área de Trabalho\calculator\obj\Debug\net8.0\calculator.genruntimeconfig.cache
 C:\Users\Vinicius Alves\OneDrive\Área de Trabalho\calculator\obj\Debug\net8.0\ref\calculator.dll
+C:\Users\Vinicius Alves\OneDrive\Área de Trabalho\calculator\obj\Debug\net8.0\calculator.sourcelink.json

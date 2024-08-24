@@ -7,8 +7,8 @@
 ### Funcionalidades
 
 - Operações Básicas: Adição, subtração, multiplicação e divisão.
-- Entrada do Usuário: O usuário insere os valores e escolhe a operação desejada.
-- Tratamento de Erros: Mensagens de erro para operações inválidas, como divisão por zero.
+- Entrada do Usuário: O usuário escolhe a operação desejada  e insere os valores.
+- Tratamento de Erros: Mensagens de erro para operações inválidas.
 - Interface Simples: Operações realizadas via console.
 
 ### Como Utilizar

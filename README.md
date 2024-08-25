@@ -66,7 +66,7 @@ O resultado da soma é: 200
 <strong> Program.cs:</strong> Contém a lógica principal da calculadora, responsável por capturar a entrada do usuário, realizar a operação e exibir o resultado.
 
 ### Contribuindo
-Contribuições são bem-vindas! 
+Contribuições são bem-vindas!✨
 
 
 

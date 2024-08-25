@@ -60,7 +60,7 @@ Digite o segundo valor:
 O resultado da soma é: 200
 ```
 ### Requisitos
-- .NET 8.0 ou superior instalado.
+- .NET 6.0 ou superior instalado.
 
 ### Estrutura do Projeto
 <strong> Program.cs:</strong> Contém a lógica principal da calculadora, responsável por capturar a entrada do usuário, realizar a operação e exibir o resultado.
